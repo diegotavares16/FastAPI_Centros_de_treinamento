@@ -1,4 +1,4 @@
-# Cadastro de Centros de Treinamento e Atletas
+# Cadastro de Centros de Treinamento e Atletas (Projeto em desenvolvimento)
 
 Este projeto é uma aplicação desenvolvida com FastAPI para o cadastro e gerenciamento de centros de treinamento e atletas. Ele permite a criação, leitura, atualização e exclusão de informações tanto para os centros de treinamento quanto para os atletas registrados, oferecendo uma interface RESTful para interações via HTTP.
 
